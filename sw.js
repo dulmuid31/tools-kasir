@@ -1,4 +1,4 @@
-const CACHE_NAME = 'kasir-rsba-v1';
+const CACHE_NAME = 'kasir-rsba-v2';
 const urlsToCache = [
   './',
   './rekap-rsba.html',
